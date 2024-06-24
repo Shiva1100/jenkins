@@ -2,3 +2,4 @@
 echo "This is working fine"
 pwd
 sudo mkdir jenkinsfile
+ls -l
